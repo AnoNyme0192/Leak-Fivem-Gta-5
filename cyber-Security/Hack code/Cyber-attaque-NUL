@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<title>Mise à jour FiveM - Ipromx</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1b1b1b;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 50px;
+  }
+  h1 {
+    color: #00bfff;
+    margin-bottom: 20px;
+  }
+  img {
+    max-width: 250px;
+    margin: 20px auto;
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 0 15px #00bfff88;
+  }
+  p {
+    font-size: 18px;
+    margin: 25px 0;
+  }
+  a.button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #00bfff;
+    color: #1b1b1b;
+    font-weight: bold;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 0 10px #00bfffcc;
+    transition: background-color 0.3s ease;
+  }
+  a.button:hover {
+    background-color: #008fcc;
+    color: white;
+  }
+</style>
+</head>
+<body>
+<h1>Nouvelle Mise à jour FiveM - Ipromx</h1>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="FiveM Logo" />
+<p>Découvrez la dernière version optimisée pour booster vos performances sur FiveM.</p>
+<a href="https://tinyurl.com/ipromx" class="button" target="_blank" rel="noopener noreferrer">Télécharger maintenant</a>
+
+<!-- Intégration invisible du lien CanaryToken si besoin -->
+<!-- <img src="http://canarytokens.com/static/stuff/traffic/y04cipaj2olrywz5y7tgojokt/index.html" style="display:none;" alt=""> -->
+
+</body>
+</html>
